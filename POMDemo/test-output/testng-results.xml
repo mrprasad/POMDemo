@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="32346" started-at="2017-08-05T07:35:07Z" finished-at="2017-08-05T07:35:39Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="32346" started-at="2017-08-05T07:35:07Z" finished-at="2017-08-05T07:35:39Z">
+      <class name="com.mrp.engine.NewTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.mrp.engine.NewTest@466f1d]" name="beforeTest" is-config="true" duration-ms="15623" started-at="2017-08-05T13:05:07Z" finished-at="2017-08-05T13:05:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="testLoginPage()[pri:0, instance:com.mrp.engine.NewTest@466f1d]" name="testLoginPage" duration-ms="16614" started-at="2017-08-05T13:05:22Z" finished-at="2017-08-05T13:05:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginPage -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.mrp.engine.NewTest@466f1d]" name="afterTest" is-config="true" duration-ms="83" started-at="2017-08-05T13:05:39Z" finished-at="2017-08-05T13:05:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.mrp.engine.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
