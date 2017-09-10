@@ -11,6 +11,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 
 public class ReuseFunctions {
+	//reusable functions
 	
 	WebDriver driver;
 	
